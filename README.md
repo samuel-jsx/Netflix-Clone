@@ -5,7 +5,7 @@ Clone da homepage da Netflix feito com HTML/CSS.
 
 # 👨‍💻 Layout
 
-![mockup](https://raw.githubusercontent.com/ugnh/Netflix-Clone/main/assets/mockup.gif?token=ASC3JE5HSKYYIYXZBM2VOKLAJNWWA)
+![mockup](https://github.com/ugnh/Netflix-Clone/blob/main/assets/mockup.gif?raw=true)
 
 # 🚀 Tecnologias Usadas
 
