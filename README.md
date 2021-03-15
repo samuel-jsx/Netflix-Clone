@@ -1,5 +1,5 @@
 # Netflix-Clone
-![logo](https://raw.githubusercontent.com/ugnh/Netflix-Clone/main/assets/logo1.png?token=ASC3JEYESYCVHA4IQCAS62LAJNWMK)
+![logo](https://github.com/ugnh/Netflix-Clone/blob/main/assets/logo1.png?raw=true)
 
 Clone da homepage da Netflix feito com HTML/CSS.
 
