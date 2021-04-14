@@ -1,7 +1,7 @@
 # Netflix-Clone
 ![logo](https://github.com/ugnh/Netflix-Clone/blob/main/assets/logo1.png?raw=true)
 
-Clone da homepage da Netflix feito com HTML/CSS.
+ Homepage da Netflix feito com HTML/CSS.
 
 # 👨‍💻 Layout
 
